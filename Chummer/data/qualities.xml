@@ -19093,69 +19093,6 @@
     </quality>
      <!-- Custom -->
     <quality>
-      <id>c71d08b8-f532-11ea-adc1-0242ac120002</id>
-      <name>Devil Trigger</name>
-      <karma>75</karma>
-      <category>Positive</category>
-      <contributetolimit>False</contributetolimit>
-      <naturalweapons>
-        <naturalweapon>
-          <name>Devil Trigger Claws</name>
-          <reach>0</reach>
-          <damage>(STR+2)P</damage>
-          <ap>-1</ap>
-          <useskill>Unarmed Combat</useskill>
-          <accuracy>Physical</accuracy>
-          <source>HS</source>
-          <page>163</page>
-        </naturalweapon>
-      </naturalweapons>
-      <stagedpurchase>True</stagedpurchase>
-      <bonus>
-        <addqualities>
-          <addquality>Wanted</addquality>
-        </addqualities>
-        <critterpowers>
-          <power>Dual Natured</power>
-          <power>Shift (Devilform)</power>
-          <power>Vestigial Wings</power>
-          <power rating="2">Hardened Armor</power>
-          <power rating="2">Hardened Mystic Armor</power>
-          <power select="Fire">Elemental Attack</power>
-        </critterpowers>
-        <enableattribute>
-          <name>MAG</name>
-        </enableattribute>
-        <enabletab>
-          <name>critter</name>
-        </enabletab>
-        <limitcritterpowercategory>Drake</limitcritterpowercategory>
-        <specificattribute>
-          <name>BOD</name>
-          <val>2</val>
-        </specificattribute>
-        <specificattribute>
-          <name>STR</name>
-          <val>2</val>
-        </specificattribute>
-        <specificattribute>
-          <name>CHA</name>
-          <val>1</val>
-        </specificattribute>
-      </bonus>
-      <forbidden>
-        <oneof>
-          <quality>Dracoform (Western Drake)</quality>
-          <quality>Dracoform (Eastern Drake)</quality>
-          <quality>Dracoform (Feathered Drake)</quality>
-          <quality>Dracoform (Sea Drake)</quality>
-          <quality>Latent Dracomorphosis</quality>
-        </oneof>
-      </forbidden>
-      <source>HS</source>
-      <page>163</page>
-    </quality>
-    <quality>
       <id>98fb6cd0-f533-11ea-adc1-0242ac120002</id>
       <name>Monad</name>
       <karma>0</karma>
@@ -19226,6 +19163,33 @@
       <source>DT</source>
       <page>147</page>
     </quality>
+    
+    
+    <quality>
+      <id>e28d61fe-f53e-11ea-adc1-0242ac120002</id>
+      <name>Mutate: Regeneration</name>
+      <karma>12</karma>
+      <category>Positive</category>
+      <doublecareer>False</doublecareer>
+      <bonus>
+        <critterpowers>
+          <power>Regeneration</power>
+        </critterpowers>
+      </bonus>
+      <forbidden>
+        <oneof>
+          <critterpower>Regeneration</critterpower>
+        </oneof>
+      </forbidden>
+      <required>
+        <oneof>
+          <quality>Changeling (Class III SURGE)</quality>
+        </oneof>
+      </required>
+      <source>RF</source>
+      <page>136</page>
+    </quality>
+    
     
       <!-- End Region -->
   </qualities>
