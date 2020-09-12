@@ -88,6 +88,38 @@
       <page>326</page>
     </metamagic>
     <metamagic>
+      <id>36717182-f50f-11ea-adc1-0242ac120002</id>
+      <name>Windscapes</name>
+      <adept>True</adept>
+      <magician>True</magician>
+      <source>SR5</source>
+      <page>10000</page>
+    </metamagic>
+    <metamagic>
+      <id>6e6b1264-f50f-11ea-adc1-0242ac120002</id>
+      <name>Dimensions</name>
+      <adept>True</adept>
+      <magician>True</magician>
+      <source>SR5</source>
+      <page>10000</page>
+    </metamagic>
+    <metamagic>
+      <id>7676a202-f50f-11ea-adc1-0242ac120002</id>
+      <name>Tap</name>
+      <adept>True</adept>
+      <magician>True</magician>
+      <source>SR5</source>
+      <page>10000</page>
+    </metamagic>
+    <metamagic>
+      <id>94444564-f50f-11ea-adc1-0242ac120002</id>
+      <name>Gear</name>
+      <adept>True</adept>
+      <magician>True</magician>
+      <source>SR5</source>
+      <page>10000</page>
+    </metamagic>
+    <metamagic>
       <id>406f096a-c093-4a02-b60f-002eb01a20b9</id>
       <name>Power Point</name>
       <adept>True</adept>
