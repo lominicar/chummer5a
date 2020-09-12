@@ -5118,6 +5118,48 @@
       <resources>6000</resources>
     </priority>
     <!-- End Region    -->
+    <!-- High Rater -->
+    <priority>
+      <id>62f73a00-f543-11ea-adc1-0242ac120002</id>
+      <name>A - 4,075,000¥</name>
+      <value>A,4</value>
+      <gameplayoption>High Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>4075000</resources>
+    </priority>
+    <priority>
+      <id>5ae7f200-f543-11ea-adc1-0242ac120002</id>
+      <name>B - 4,050,000¥</name>
+      <value>B,3</value>
+      <gameplayoption>High Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>4050000</resources>
+    </priority>
+    <priority>
+      <id>462f8f9e-f543-11ea-adc1-0242ac120002</id>
+      <name>C - 4,025,000¥</name>
+      <value>C,2</value>
+      <gameplayoption>High Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>4025000</resources>
+    </priority>
+    <priority>
+      <id>462f8f9e-f543-11ea-adc1-0242ac120002</id>
+      <name>D - 4,015,000¥</name>
+      <value>D,1</value>
+      <gameplayoption>High Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>4015000</resources>
+    </priority>
+    <priority>
+      <id>6637ad7e-f540-11ea-adc1-0242ac120002</id>
+      <name>E - 4,006,000¥</name>
+      <value>E,0</value>
+      <gameplayoption>High Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>4006000</resources>
+    </priority>
+    <!-- End Region    -->
     <!-- End Region    -->
   </priorities>
 </chummer>
