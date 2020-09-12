@@ -127,5 +127,27 @@
         <priorityarray>AABCC</priorityarray>
       </priorityarrays>
     </gameplayoption>
+    <gameplayoption>
+      <id>6637ad7e-f540-11ea-adc1-0242ac120002</id>
+      <name>High Rater</name>
+      <karma>4035</karma>
+      <qualitylimit>5000</qualitylimit>
+      <pointbuykarma>5000</pointbuykarma>
+      <lifemoduleskarma>4950</lifemoduleskarma>
+      <sumtoten>15</sumtoten>
+      <maxavailability>1000</maxavailability>
+      <maxnuyen>25</maxnuyen>
+      <contactmultiplier>6</contactmultiplier>
+      <bannedwaregrades>
+        <grade>Gammaware</grade>
+      </bannedwaregrades>
+      <redlinerexclusion>
+        <limb>skull</limb>
+        <limb>torso</limb>
+      </redlinerexclusion>
+      <priorityarrays>
+        <priorityarray>ABCDE</priorityarray>
+      </priorityarrays>
+    </gameplayoption>
   </gameplayoptions>
 </chummer>
