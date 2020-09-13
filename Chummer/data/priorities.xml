@@ -5207,7 +5207,7 @@
       <id>17cc10ef-616a-47a6-af13-15e38f758768</id>
       <name>A - 575,000¥</name>
       <value>A,4</value>
-      <gameplayoption>Mid Rater</gameplayoption>
+      <gameplayoption>Low Rater</gameplayoption>
       <category>Resources</category>
       <resources>575000</resources>
     </priority>
@@ -5215,7 +5215,7 @@
       <id>63d80c89-091b-4f3c-a9fe-197c5280b000</id>
       <name>B - 550,000¥</name>
       <value>B,3</value>
-      <gameplayoption>Mid Rater</gameplayoption>
+      <gameplayoption>Low Rater</gameplayoption>
       <category>Resources</category>
       <resources>550000</resources>
     </priority>
@@ -5223,7 +5223,7 @@
       <id>75088bb2-d3cb-44f4-ba2b-0b54863b8f10</id>
       <name>C - 525,000¥</name>
       <value>C,2</value>
-      <gameplayoption>Mid Rater</gameplayoption>
+      <gameplayoption>Low Rater</gameplayoption>
       <category>Resources</category>
       <resources>525000</resources>
     </priority>
@@ -5231,7 +5231,7 @@
       <id>b342e8d3-c186-460d-8a48-1874e7264567</id>
       <name>D - 515,000¥</name>
       <value>D,1</value>
-      <gameplayoption>Mid Rater</gameplayoption>
+      <gameplayoption>Low Rater</gameplayoption>
       <category>Resources</category>
       <resources>515000</resources>
     </priority>
@@ -5239,7 +5239,7 @@
       <id>a89a39da-e2e9-4156-b5e4-0e2122532b6c</id>
       <name>E - 506,000¥</name>
       <value>E,0</value>
-      <gameplayoption>Mid Rater</gameplayoption>
+      <gameplayoption>Low Rater</gameplayoption>
       <category>Resources</category>
       <resources>506000</resources>
     </priority>
