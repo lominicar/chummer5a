@@ -134,8 +134,8 @@
       <qualitylimit>5000</qualitylimit>
       <pointbuykarma>5000</pointbuykarma>
       <lifemoduleskarma>4950</lifemoduleskarma>
-      <sumtoten>15</sumtoten>
-      <maxavailability>1000</maxavailability>
+      <sumtoten>10</sumtoten>
+      <maxavailability>100</maxavailability>
       <maxnuyen>25</maxnuyen>
       <contactmultiplier>6</contactmultiplier>
       <bannedwaregrades>
@@ -145,9 +145,44 @@
         <limb>skull</limb>
         <limb>torso</limb>
       </redlinerexclusion>
-      <priorityarrays>
-        <priorityarray>ABCDE</priorityarray>
-      </priorityarrays>
+    </gameplayoption>
+    <gameplayoption>
+      <id>a88914a8-f5c5-11ea-adc1-0242ac120002</id>
+      <name>Mid Rater</name>
+      <karma>2535</karma>
+      <qualitylimit>2535</qualitylimit>
+      <pointbuykarma>3500</pointbuykarma>
+      <lifemoduleskarma>3450</lifemoduleskarma>
+      <sumtoten>10</sumtoten>
+      <maxavailability>100</maxavailability>
+      <maxnuyen>25</maxnuyen>
+      <contactmultiplier>6</contactmultiplier>
+      <bannedwaregrades>
+        <grade>Gammaware</grade>
+      </bannedwaregrades>
+      <redlinerexclusion>
+        <limb>skull</limb>
+        <limb>torso</limb>
+      </redlinerexclusion>
+    </gameplayoption>
+    <gameplayoption>
+      <id>261e15e4-f5c6-11ea-adc1-0242ac120002</id>
+      <name>Low Rater</name>
+      <karma>1535</karma>
+      <qualitylimit>1535</qualitylimit>
+      <pointbuykarma>2500</pointbuykarma>
+      <lifemoduleskarma>2450</lifemoduleskarma>
+      <sumtoten>10</sumtoten>
+      <maxavailability>100</maxavailability>
+      <maxnuyen>25</maxnuyen>
+      <contactmultiplier>6</contactmultiplier>
+      <bannedwaregrades>
+        <grade>Gammaware</grade>
+      </bannedwaregrades>
+      <redlinerexclusion>
+        <limb>skull</limb>
+        <limb>torso</limb>
+      </redlinerexclusion>
     </gameplayoption>
   </gameplayoptions>
 </chummer>
