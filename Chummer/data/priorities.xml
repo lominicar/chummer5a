@@ -5120,7 +5120,7 @@
     <!-- End Region    -->
     <!-- High Rater -->
     <priority>
-      <id>62f73a00-f543-11ea-adc1-0242ac120002</id>
+      <id>c6cca07f-4efa-45bd-8dcf-e19e7d0c0351</id>
       <name>A - 4,075,000¥</name>
       <value>A,4</value>
       <gameplayoption>High Rater</gameplayoption>
@@ -5128,7 +5128,7 @@
       <resources>4075000</resources>
     </priority>
     <priority>
-      <id>5ae7f200-f543-11ea-adc1-0242ac120002</id>
+      <id>ef10ba88-0bf4-442a-bf87-73a6c7839b85</id>
       <name>B - 4,050,000¥</name>
       <value>B,3</value>
       <gameplayoption>High Rater</gameplayoption>
@@ -5136,7 +5136,7 @@
       <resources>4050000</resources>
     </priority>
     <priority>
-      <id>462f8f9e-f543-11ea-adc1-0242ac120002</id>
+      <id>c7c9bfee-9371-4f63-bcf7-fb08c45482e1</id>
       <name>C - 4,025,000¥</name>
       <value>C,2</value>
       <gameplayoption>High Rater</gameplayoption>
@@ -5144,7 +5144,7 @@
       <resources>4025000</resources>
     </priority>
     <priority>
-      <id>462f8f9e-f543-11ea-adc1-0242ac120002</id>
+      <id>6d6e9892-cb2c-47e6-8854-6ed66b0b9232</id>
       <name>D - 4,015,000¥</name>
       <value>D,1</value>
       <gameplayoption>High Rater</gameplayoption>
@@ -5152,12 +5152,96 @@
       <resources>4015000</resources>
     </priority>
     <priority>
-      <id>6637ad7e-f540-11ea-adc1-0242ac120002</id>
+      <id>32d7855e-c959-4e2f-ae4b-0c8deeb25902</id>
       <name>E - 4,006,000¥</name>
       <value>E,0</value>
       <gameplayoption>High Rater</gameplayoption>
       <category>Resources</category>
       <resources>4006000</resources>
+    </priority>
+    <!-- End Region    -->
+    <!-- Mid Rater -->
+    <priority>
+      <id>d69e4b77-d2a0-4a4d-852b-e7f2f9732e1a</id>
+      <name>A - 2,075,000¥</name>
+      <value>A,4</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>2075000</resources>
+    </priority>
+    <priority>
+      <id>15a9020b-f732-485f-99aa-7f753023f952</id>
+      <name>B - 2,050,000¥</name>
+      <value>B,3</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>2050000</resources>
+    </priority>
+    <priority>
+      <id>7000c898-68d2-4900-9443-316c8f339881</id>
+      <name>C - 2,025,000¥</name>
+      <value>C,2</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>2025000</resources>
+    </priority>
+    <priority>
+      <id>0e0e1f18-a18b-42ed-bef1-c6180fc311da</id>
+      <name>D - 2,015,000¥</name>
+      <value>D,1</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>2015000</resources>
+    </priority>
+    <priority>
+      <id>1f8bcf47-6c7c-4398-99e0-492fc385f428</id>
+      <name>E - 2,006,000¥</name>
+      <value>E,0</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>2006000</resources>
+    </priority>
+    <!-- End Region    -->
+    <!-- Low Rater -->
+    <priority>
+      <id>17cc10ef-616a-47a6-af13-15e38f758768</id>
+      <name>A - 575,000¥</name>
+      <value>A,4</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>575000</resources>
+    </priority>
+    <priority>
+      <id>63d80c89-091b-4f3c-a9fe-197c5280b000</id>
+      <name>B - 550,000¥</name>
+      <value>B,3</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>550000</resources>
+    </priority>
+    <priority>
+      <id>75088bb2-d3cb-44f4-ba2b-0b54863b8f10</id>
+      <name>C - 525,000¥</name>
+      <value>C,2</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>525000</resources>
+    </priority>
+    <priority>
+      <id>b342e8d3-c186-460d-8a48-1874e7264567</id>
+      <name>D - 515,000¥</name>
+      <value>D,1</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>515000</resources>
+    </priority>
+    <priority>
+      <id>a89a39da-e2e9-4156-b5e4-0e2122532b6c</id>
+      <name>E - 506,000¥</name>
+      <value>E,0</value>
+      <gameplayoption>Mid Rater</gameplayoption>
+      <category>Resources</category>
+      <resources>506000</resources>
     </priority>
     <!-- End Region    -->
     <!-- End Region    -->
