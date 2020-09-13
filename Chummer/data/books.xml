@@ -272,5 +272,10 @@
       <name>Krime Katalog</name>
       <code>KK</code>
     </book>
+    <book>
+      <id>3303dc0e-f5c5-11ea-adc1-0242ac120002</id>
+      <name>Custom Rules</name>
+      <code>HCR</code>
+    </book>
   </books>
 </chummer>
